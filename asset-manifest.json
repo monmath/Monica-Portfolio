@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monica-portfolio/static/css/main.cfc13223.css",
-    "main.js": "/monica-portfolio/static/js/main.2e3a05fe.js",
+    "main.js": "/monica-portfolio/static/js/main.e3d75755.js",
     "static/js/787.128fc6e9.chunk.js": "/monica-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/hbo-max.png": "/monica-portfolio/static/media/hbo-max.1a74b97a38868e412817.png",
     "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
@@ -14,11 +14,11 @@
     "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
     "index.html": "/monica-portfolio/index.html",
     "main.cfc13223.css.map": "/monica-portfolio/static/css/main.cfc13223.css.map",
-    "main.2e3a05fe.js.map": "/monica-portfolio/static/js/main.2e3a05fe.js.map",
+    "main.e3d75755.js.map": "/monica-portfolio/static/js/main.e3d75755.js.map",
     "787.128fc6e9.chunk.js.map": "/monica-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfc13223.css",
-    "static/js/main.2e3a05fe.js"
+    "static/js/main.e3d75755.js"
   ]
 }
